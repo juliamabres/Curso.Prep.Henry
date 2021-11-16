@@ -98,6 +98,7 @@ function promedioResultadosTest(resultadosTest) {
   var promedio = suma / resultadosTest.length;
   return promedio;
   
+  
 }
 
 
